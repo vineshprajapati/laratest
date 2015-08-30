@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laratest":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laratest","hostpath":"/Users/vineshprajapati/www/laratest","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/vineshprajapati/www/laratest","disabled":false}}}
